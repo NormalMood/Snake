@@ -6,9 +6,9 @@ Download Snake.exe, table_records.log, folder images and folder music.
 Then put them in one folder.
 Start to play by clicking Snake.exe
 # Settings
-Some settings are available for comfort play in the game:
--to choose color of a snake
--to set a speed of a snake
+Some settings are available for comfort play in the game:  
+-to choose color of a snake  
+-to set a speed of a snake  
 -turn on/off sounds
 # Information
 Author: NormalMood
