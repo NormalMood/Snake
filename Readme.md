@@ -14,4 +14,4 @@ Some settings are available for comfort play in the game:
 Author: NormalMood  
 Game language: only Russian
 # Screenshot
-![Image alt](https://github.com/NormalMood/Snake/Screenshot/Snake.jpg)
+![alt text](Screenshot/Snake.jpg)
